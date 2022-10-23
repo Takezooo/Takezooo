@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkagamiDeibu
+- 👋 Hi, I’m @Taekzo
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning HTML, CSS, & JavaScript
 - 💞️ I’m looking to collaborate on Web Dev 
