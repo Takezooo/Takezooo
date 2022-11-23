@@ -39,5 +39,5 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the 
 
 ---
 # 📊 Stats
-![Takezooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takezooo&show_icons=true&theme=tokyonight)
+![Takezooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takezooo&show_icons=true&theme=dracula)
 
