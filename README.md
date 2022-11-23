@@ -8,7 +8,21 @@
 
 **`(Student) (Web Dev)`**
 
-Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems. I am a 2nd-year student and I want to become a Full-Stack Web Developer. I only have a background in HTML, CSS, and JavaScript for Front-End Web Development, and I know the basics of Python, Java, C++, and C.
+Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems. I am a 2nd-year student and I want to become a Full-Stack Web Developer. I only have a background in 
+            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          , 
+            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          , and 
+            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+           for Front-End Web Development, and I know the basics of 
+            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          , 
+            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          , 
+            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+          , and 
+            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          .
 
 
 <p align="left">
