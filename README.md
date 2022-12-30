@@ -39,5 +39,12 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the 
 
 ---
 # 📊 Stats
-![Takezooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takezooo&show_icons=true&theme=dracula)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Takezooo&show_icons=true&theme=dracula">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Takezooo&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Takezooo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takezooo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
+</a>
+</div>
 
