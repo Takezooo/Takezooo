@@ -37,6 +37,9 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the 
     </a>
 </p>
 
+# Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{Takezooo}/count.svg)
+
 ---
 # 📊 Stats
 <div>
@@ -47,11 +50,4 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takezooo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
 </a>
 </div>
-<hr>
-<br>
-<h1>Profile Visits:</h1>
-<div>
-  
-![Visitor Count](https://profile-counter.glitch.me/{Takezooo}/count.svg)
 
-</div>
