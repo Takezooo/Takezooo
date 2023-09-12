@@ -48,5 +48,5 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the 
 </a>
 </div>
 
-### Profile Visits:
+# Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{Takezooo}/count.svg)
