@@ -29,7 +29,7 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the 
     <a href="https://www.facebook.com/davemartin.jornales" target="_blank">
         <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
     </a> 
-    <a href="https://twitter.com/Deibuuuuuuu" target="_blank">
+    <a href="https://twitter.com/d_takezo_" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/dave-jornales-850297198//" target="_blank">
