@@ -25,7 +25,7 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a student at the 
           .
 
 
-<p align="left">
+<p align="center">
     <a href="https://www.facebook.com/davemartin.jornales" target="_blank">
         <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
     </a> 
