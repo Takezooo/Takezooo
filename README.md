@@ -1,7 +1,7 @@
 <h1 align="center">👺Takezo</h1>
 <p align="center">
   <h3 align="center">“When everything seems to be going against you, remember <br> that the airplane takes off against the wind, not with it.” <br> – Henry Ford</h3> 
-  <img src="https://images.everydayhealth.com/images/news/ways-to-keep-your-dog-safe-during-fireworks-1440x810.gif?sfvrsn=100ffc82_5" alt="People Walking GIF">
+  <img src="https://i.pinimg.com/originals/48/ce/09/48ce09593ab9599100c3dbe281d1a0ac.gif" alt="People Walking GIF">
 </p>
 
 # About
