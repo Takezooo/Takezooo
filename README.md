@@ -49,5 +49,6 @@ Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a graduating stud
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Takezooo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takezooo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
 </a>
+<a href="https://app.daily.dev/davejornales"><img src="https://api.daily.dev/devcards/v2/HoOlvGGxalgqCZwzXyCFx.png?type=default&r=3h2" width="200" alt="Dave Jornales's Dev Card"/></a>
 </div>
 
