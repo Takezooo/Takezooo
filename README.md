@@ -1,7 +1,7 @@
 <h1 align="center">👺Takezo</h1>
 <p align="center">
   <h3 align="center">“When everything seems to be going against you, remember <br> that the airplane takes off against the wind, not with it.” <br> – Henry Ford</h3> 
-  <img src="https://i.pinimg.com/originals/48/ce/09/48ce09593ab9599100c3dbe281d1a0ac.gif" alt="People Walking GIF">
+  <img src="https://images.steamusercontent.com/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height=800 width-900 alt="People Walking GIF">
 </p>
 
 # About
