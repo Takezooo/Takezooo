@@ -8,7 +8,8 @@
 
 **`(Student) (Web Dev)`**
 
-Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a graduating student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems. I am interested in the vast technology within cybersecurity, and my communication and programming skills can help organizations achieve their security goals. I value protecting organizations and people, and I'm eager to learn and apply my abilities to ensure the safety and integrity of their systems.
+Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a graduating student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems.
+My strong verbal communication, programming, and leadership skills, combined with my commitment to protecting organizations and people, drive my interest in the expansive technological landscape of cybersecurity. I am eager to apply my abilities to ensure secure information flow and develop effective solutions that support the security goals of any organization.
 
 <p align="center">
     <a href="https://www.facebook.com/davemartin.jornales" target="_blank">
