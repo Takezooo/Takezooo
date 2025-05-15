@@ -8,7 +8,7 @@
 
 **`(Student) (Web Dev)`**
 
-Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a graduating student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems. I want to become a Full-Stack Web Developer also thinking to become a SOC Analyst. I only have a background in 
+Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a graduating student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems. I am interested in the vast technology within cybersecurity, and my communication and programming skills can help organizations achieve their security goals. I value protecting organizations and people, and I'm eager to learn and apply my abilities to ensure the safety and integrity of their systems.
             <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           , 
             <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
