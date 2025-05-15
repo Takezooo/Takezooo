@@ -1,7 +1,7 @@
 <h1 align="center">👺Takezo</h1>
 <p align="center">
   <h3 align="center">“When everything seems to be going against you, remember <br> that the airplane takes off against the wind, not with it.” <br> – Henry Ford</h3> 
-  <img src="https://images.steamusercontent.com/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height=800 width-900 alt="People Walking GIF">
+  <img src="https://images.steamusercontent.com/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height=600 width-1000 alt="People Walking GIF">
 </p>
 
 # About
@@ -9,21 +9,6 @@
 **`(Student) (Web Dev)`**
 
 Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a graduating student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems. I am interested in the vast technology within cybersecurity, and my communication and programming skills can help organizations achieve their security goals. I value protecting organizations and people, and I'm eager to learn and apply my abilities to ensure the safety and integrity of their systems.
-            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          , 
-            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-          , and 
-            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-           for Front-End Web Development, and I know the basics of 
-            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          , 
-            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          , 
-            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-          , and 
-            <img width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          .
-
 
 <p align="center">
     <a href="https://www.facebook.com/davemartin.jornales" target="_blank">
