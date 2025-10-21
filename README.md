@@ -6,9 +6,9 @@
 
 # About
 
-**`(Student) (Web Dev)`**
+**`(Web Dev)`**
 
-Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a graduating student at the Technological University of the Philippines, taking a Bachelor of Science in Information Systems.
+Hi, I'm Dave Jornales, and you can call me Dave or Takezo. I'm a Bachelor of Science in Information Systems graduate at the Technological University of the Philippines.
 My strong verbal communication, programming, and leadership skills, combined with my commitment to protecting organizations and people, drive my interest in the expansive technological landscape of cybersecurity. I am eager to apply my abilities to ensure secure information flow and develop effective solutions that support the security goals of any organization.
 
 <p align="center">
